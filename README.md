@@ -1,6 +1,6 @@
 # readme-generator
 
-#Professional README Generator
+# Professional README Generator
 
 ## Your Task
 
