@@ -64,4 +64,4 @@ Here are some guidelines to help you get started:
 ## Screenshots
 
 ## Deployed Link
-[Video Link]()
+[Video Link](https://drive.google.com/file/d/1ExGC2GTR8RXYB1_93UFytS1gmnd2eZAb/view)
