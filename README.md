@@ -61,7 +61,10 @@ Here are some guidelines to help you get started:
 
 * Include any other screenshots you deem necessary to help someone who has never been introduced to your application understand the purpose and function of it. This is how you will communicate to potential employers or other developers in the future what you built and why, and to show how it works.
 
-## Screenshots
+## Screenshot
+<img width="1440" alt="Screen Shot 2022-11-15 at 9 24 57 PM" src="https://user-images.githubusercontent.com/112911066/202076613-ca00c07d-deb9-45ab-aff9-ba0e497aee2f.png">
+
+
 
 ## Deployed Link
 [Video Link](https://drive.google.com/file/d/1ExGC2GTR8RXYB1_93UFytS1gmnd2eZAb/view)
