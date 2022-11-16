@@ -68,3 +68,5 @@ Here are some guidelines to help you get started:
 
 ## Deployed Link
 [Video Link](https://drive.google.com/file/d/1ExGC2GTR8RXYB1_93UFytS1gmnd2eZAb/view)
+
+file:///Users/jeremykoshy/Downloads/Untitled_%20Nov%2015,%202022%209_20%20PM.webm
