@@ -67,6 +67,6 @@ Here are some guidelines to help you get started:
 
 
 ## Deployed Link
-[Video Link](https://drive.google.com/file/d/1ExGC2GTR8RXYB1_93UFytS1gmnd2eZAb/view)
+[Video Link](https://drive.google.com/file/d/1FjuFufoNSymcw7ue1Q1f6prqC0-0gTv-/view)
 
 
